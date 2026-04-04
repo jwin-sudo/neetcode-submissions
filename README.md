@@ -1,6 +1,6 @@
 # NeetCode Solutions — @jwin-sudo
 
-> Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions-elxbplo1`
+> Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
 
 ---
 
